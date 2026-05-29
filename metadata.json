@@ -1,0 +1,6 @@
+{
+  "name": "Елбаев Айти | Автоматизация котельных",
+  "description": "Проектирование, сборка щитов автоматики, программирование ПЛК и автоматизация котельного оборудования любой сложности под ключ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
